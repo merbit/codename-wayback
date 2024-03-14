@@ -2,7 +2,7 @@ package wayback.content;
 
 import mindustry.type.*;
 import mindustry.world.*;
-import mindustry.world.blocks.turrets.*;
+import mindustry.world.blocks.defense.turrets.*;
 
 import static mindustry.type.ItemStack.with;
 import static mindustry.content.Items.*;
